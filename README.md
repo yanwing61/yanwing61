@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> **About me**
+> **Note**
+> 
+> # About me
 > Hello there! I'm a passionate full stack web developer with over 4 years of experience in the digital marketing and administration industry. Currently based in Toronto, I am pursuing my Web Development studies, with a Bachelor's degree in Social Science with a major in Journalism and Communication.
 >
 > My journey in web development has been driven by a dedication to creating top-notch web solutions and effectively managing projects. I take great pleasure in building websites from scratch, infusing them with customised elements that enhance the user experience.
