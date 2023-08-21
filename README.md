@@ -6,12 +6,14 @@ My journey in web development has been driven by a dedication to creating top-no
 Transitioning into web development wasn't an easy path, but it has been an incredibly interesting and rewarding one. I thrive on the challenges it brings and the constant opportunity to learn and grow in this dynamic field.
 
 > **Note**
+>
+> More about me...
 > - 🐱 Cat lover
 > - 🏔 Hiking + 🏋 gym + 🏊 swimming
 > - 🌿 Sustainability
 > - 🍳 Foodie (Yan Can Cook as well!)
 > - 🖼 Oil painting
-> - 💰 Fun fact: my name pronounce exactly like the Japanese currency lo
+> - 💰 Fun fact: my name pronounce exactly like the Japanese currency :D
 > 
 > 
 
